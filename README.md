@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi there, I'm Mir Khan
 
-### 🚀 Senior Full-Stack Software Engineer | Angular • Node.js • PHP/Laravel
+### 🚀 Senior Full-Stack Software Engineer | Angular • React • Node.js • NestJS • ExpressJS • PHP/Laravel/CodeIgniter/Symfony 
 
 📍 Berlin, Germany
 💼 Germany Opportunity Card (Chancenkarte) Holder
@@ -108,8 +108,6 @@ Currently, I'm expanding my expertise in AI Engineering, Agentic Systems, Retrie
 📧 Email: [mirjiskani1@gmail.com](mailto:mirjiskani1@gmail.com)
 
 ---
-
-> “Continuous learning and building practical solutions one project at a time.”
 
 
 ⭐ Always open to exciting software engineering opportunities and collaborations.
