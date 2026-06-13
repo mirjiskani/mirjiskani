@@ -78,14 +78,16 @@ Currently, I'm expanding my expertise in AI Engineering, Agentic Systems, Retrie
 
 ---
 
-## 🏭 Industries
+## 🏭 Industry Experience
 
 * 🚚 Logistics & Transportation
 * 🚗 Vehicle Auctions
-* 🏥 Healthcare & EMR Systems
+* 🏥 Healthcare & Electronic Medical Records (EMR)
 * 🛒 E-Commerce
-* 🏢 Property Management
+* 🏢 Property Management Systems
 * 🎓 Learning Management Systems (LMS)
+* 🌐 Enterprise Web Applications
+
 
 ---
 
