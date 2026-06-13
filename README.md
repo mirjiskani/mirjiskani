@@ -13,89 +13,103 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Mir Khan 👋
+# 👋 Hi there, I'm Mir Khan
 
-## Senior Full-Stack Software Engineer
+### 🚀 Senior Full-Stack Software Engineer | Angular • Node.js • PHP/Laravel
 
 📍 Berlin, Germany
-💼 Germany Opportunity Card Holder (Chancenkarte)
-🚀 Available for Full-Time Opportunities
+💼 Germany Opportunity Card (Chancenkarte) Holder
+🌍 Open to Full-Time Opportunities Across Germany
 
-I am a Senior Full-Stack Software Engineer with 8+ years of experience designing and developing scalable web applications, REST APIs, and enterprise platforms.
+---
 
-My expertise includes:
+## 👨‍💻 About Me
 
-* Angular
-* React
-* Node.js
-* NestJS
-* Express.js
-* PHP (Laravel, Symfony, CodeIgniter)
-* MySQL
-* PostgreSQL
-* MongoDB
-* Docker
+I'm a Senior Full-Stack Software Engineer with 8+ years of experience building scalable web applications, REST APIs, and enterprise platforms.
 
-## What I Do
+My expertise spans modern frontend and backend technologies, helping businesses deliver reliable, secure, and high-performance software solutions across multiple industries.
 
-* Build scalable web applications and enterprise platforms
-* Design RESTful APIs and backend systems
-* Optimize application and database performance
-* Implement secure authentication and authorization systems
-* Develop cloud-ready and containerized applications
+Currently, I'm expanding my expertise in AI Engineering, Agentic Systems, Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), and Cloud Technologies.
 
-## Currently Learning
+---
 
-* AI Agents
-* Retrieval-Augmented Generation (RAG)
-* Model Context Protocol (MCP)
-* LangGraph
-* AWS Cloud Services
-* Workflow Automation
-
-## Industries I've Worked In
-
-* Logistics & Transportation
-* Vehicle Auctions
-* Healthcare & EMR Systems
-* E-Commerce
-* Property Management Systems
-* Learning Management Systems (LMS)
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 
-Angular • React • TypeScript • JavaScript • Bootstrap • Tailwind CSS • Vue.js
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs)
 
 ### Backend
 
-Node.js • NestJS • Express.js • PHP • Laravel • Symfony • CodeIgniter
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
 
 ### Databases
 
-MySQL • PostgreSQL • MongoDB • Redis
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
 
-### Tools
+### DevOps & Tools
 
-Docker • Git • GitHub • Postman • Swagger • VS Code • PhpStorm
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)
 
-## Current Goals
+---
+
+## 🎯 Current Focus
+
+* 🤖 AI Agents
+* 📚 Retrieval-Augmented Generation (RAG)
+* 🔗 Model Context Protocol (MCP)
+* ☁️ AWS Cloud Services
+* 🌐 LangGraph & Multi-Agent Systems
+* ⚡ Workflow Automation
+
+---
+
+## 🏭 Industries
+
+* 🚚 Logistics & Transportation
+* 🚗 Vehicle Auctions
+* 🏥 Healthcare & EMR Systems
+* 🛒 E-Commerce
+* 🏢 Property Management
+* 🎓 Learning Management Systems (LMS)
+
+---
+
+## 🚧 Current Goals
 
 * Build production-ready AI applications
-* Complete AgentRAG project
+* Complete AgentRAG
 * Advance AWS expertise
-* Explore AI Agents and MCP ecosystems
-* Contribute to open-source projects
+* Explore MCP & AI Agent ecosystems
+* Contribute to Open Source
 
-## Connect With Me
+---
 
-🌐 Website: mirkhanjiskani.com
+## 📫 Let's Connect
 
-💼 LinkedIn: linkedin.com/in/mir-khan-jiskani
+🌐 Website: https://mirkhanjiskani.com
+
+💼 LinkedIn: https://linkedin.com/in/mir-khan-jiskani
 
 📧 Email: [mirjiskani1@gmail.com](mailto:mirjiskani1@gmail.com)
 
 ---
+
+> “Continuous learning and building practical solutions one project at a time.”
+
 
 ⭐ Always open to exciting software engineering opportunities and collaborations.
